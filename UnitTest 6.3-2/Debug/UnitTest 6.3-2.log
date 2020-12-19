@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest 6.3-2.cpp
+D:\ddpu\алгоритмізація\Коди\Project 6.3-2\Project 6.3-2.cpp(65,20): warning C4101: 'S1': unreferenced local variable
+D:\ddpu\алгоритмізація\Коди\Project 6.3-2\Project 6.3-2.cpp(122): warning C4715: 'Sum': not all control paths return a value
+D:\ddpu\алгоритмізація\Коди\Project 6.3-2\Project 6.3-2.cpp(56): warning C4715: 'Sum2<int>': not all control paths return a value
+     Creating library D:\ddpu\алгоритмізація\Коди\Project 6.3-2\Debug\UnitTest 6.3-2.lib and object D:\ddpu\алгоритмізація\Коди\Project 6.3-2\Debug\UnitTest 6.3-2.exp
+  UnitTest 6.3-2.vcxproj -> D:\ddpu\алгоритмізація\Коди\Project 6.3-2\Debug\UnitTest 6.3-2.dll
